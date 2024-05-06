@@ -12,7 +12,7 @@ You can group those repositories into several categories
     - How do I incorporate 3rd party libs (like Drag and Drop)
     - How do go about external data. Though I resort to local storage most of the time, due to ease of deployment
     - How easy is it to deploy this.
-- Preparing episodes for Papperlapapp and @Autoweirdfm
+- Preparing episodes for (Papperlapapp)[https://www.youtube.com/c/papperlapapp-dev] and (@Autoweirdfm)[https://autoweird.fm]
 - Providing little snippets to be discussed within the team
 - Contributing to open-source libs, like Zustand or Cosmos DB
 
